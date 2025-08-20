@@ -11,6 +11,7 @@ E) JPA & Hibernate
 
  
 
+
 1) Category CRUD operation. 
 
 Below are the APIs required to be developed :
@@ -38,6 +39,8 @@ PUT - update category by id
  
 
  
+
+
 
 2) Product CRUD operation.
 
